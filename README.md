@@ -1,8 +1,5 @@
 # Alto-Neuroscience-Data-Challenge
 
----
-
-
 #### **Inspiration**
 
 Based on an initial understanding of the dataset, it is evident that a lot of questions can be posed and understood using the given dataset and I believe some of it comes from the questions which the dataset itself poses - 
