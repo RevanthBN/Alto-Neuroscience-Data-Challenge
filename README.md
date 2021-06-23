@@ -1,5 +1,4 @@
 # Alto-Neuroscience-Data-Challenge
-# **Alto Neuroscience - Data Challenege**
 
 ---
 
