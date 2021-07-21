@@ -1,4 +1,4 @@
-# Alto-Neuroscience-Data-Challenge
+# Mental Health Data Challenge
 
 #### **Inspiration**
 
